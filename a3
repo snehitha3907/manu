@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main
+{
+if i=0;
+i++
+printf("ramu is good")
+else
+printf("ramu is not good")
+}
